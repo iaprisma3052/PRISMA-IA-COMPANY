@@ -1,0 +1,22 @@
+{
+  "name": "Prisma AI Trader",
+  "description": "Professional Binary Options Analysis Dashboard featuring Real-time Ray-Tracing simulation, Technical Indicators (RSI, MACD, Stochastic), and Gemini-powered market sentiment analysis.",
+  "permissions": [
+    "display-capture",
+    "camera",
+    "microphone"
+  ],
+  "requestFramePermissions": [
+    "display-capture",
+    "camera",
+    "microphone"
+  ],
+  "sandbox": [
+    "allow-scripts",
+    "allow-same-origin",
+    "allow-popups",
+    "allow-forms",
+    "allow-modals",
+    "allow-top-navigation"
+  ]
+}
